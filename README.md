@@ -27,6 +27,3 @@
     4. Test get all tasks GET method to obtain task id or get the ID from database
     5. Use the Calculate Project Schedules method to assign start date and end date according to the dependencies of the tasks in a specific project.
     6. Response will be shown in postman, consolve and saved to database
-
-### Postman Test
-[Postman Collection](https://www.postman.com/flight-observer-39786482/c9d6054f-4743-4161-a1b4-583d23681435/collection/3vygc1s/bpi-exam)
