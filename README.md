@@ -2,7 +2,7 @@
 
 ### Setup to run the application:
  
-* Using Meven and Java 17
+* Using Maven and Java 17
 * Open application.properties
   * Update spring.datasource.username=root and update spring.datasource.url if you have different port for mysql 
   * Create new database with name bpi_exam
