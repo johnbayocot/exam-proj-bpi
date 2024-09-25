@@ -29,4 +29,4 @@
     6. Response will be shown in postman, consolve and saved to database
 
 ### Postman Test
-[Postman Collection](https://api.postman.com/collections/38575219-3b793f10-45e8-478c-8b4e-b25b69868045?access_key=PMAT-01J8MD5WF57J7YY9ZEKF7FFWS4)
+[Postman Collection](https://www.postman.com/flight-observer-39786482/c9d6054f-4743-4161-a1b4-583d23681435/collection/3vygc1s/bpi-exam)
